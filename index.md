@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+title: "Hi, this is Sowmya!"
+description: |
+  Welcome to my website. I hope you enjoy it!
+output: html_document
+---
 
-You can use the [editor on GitHub](https://github.com/sparthib/biostat776-intro-sowmya-parthiban/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hello! Here's a little something about me!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Sowmya Parthiban. I am a Biomedical Engineering grad student 
+at JHU. I work with the JHU Biostats deparment in spatial transcriptomics research for neurodegenerative disorders. I primarily used to work with python for reinforcement learning research, but as I've found myself gravitated towards Biostatistics, I've slowly replaced that with R since it's widely used in the field. 
 
-### Markdown
+## Fun facts!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  1. I am a salsa dancer! Dancing's one of my greatest passions in life. 
+  
+  2. I love listening to songs from different countries - according to Spotify, it was 54 countries last year.
+  
+  3. I tried an outdoor yoga class for the first time recently and it was a highly refreshing experience - I see myself doing it more ofter in the future. 
+  
+  4. Currently reading Can't Hurt Me by David Goggins. 
+  
+  5. My favorite food is beer-battered shrimp tacos!
+  
+## This is cool: 
 
-```markdown
-Syntax highlighted code block
+  Justin Baldoni's an actor/producer who's been very active in 
+  breaking down toxic masculinity and gender norms in  society through his TV shows as well as his podcast [Man Enough]https://manenough.com/podcast/  and I think it's very cool. As far as I know, not enough men put themselves out there and talk about it.  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparthib/biostat776-intro-sowmya-parthiban/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
