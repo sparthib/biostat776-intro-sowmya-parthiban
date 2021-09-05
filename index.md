@@ -1,9 +1,3 @@
----
-title: "Hi, this is Sowmya!"
-description: |
-  Welcome to my website. I hope you enjoy it!
-output: html_document
----
 
 # Hello! Here's a little something about me!
 
