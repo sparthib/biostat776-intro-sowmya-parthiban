@@ -15,7 +15,7 @@ at JHU. I work with the JHU Biostats deparment in spatial transcriptomics resear
   4. Currently reading Can't Hurt Me by David Goggins. 
   
   5. My favorite food is beer-battered shrimp tacos!
-  ![taco](https://chelasmexicangrill.com/wp-content/uploads/2019/12/Hilarious-Taco-Memes-I-will-Find-Them.jpg){:height="50%" width="50%"}
+  ![taco](https://chelasmexicangrill.com/wp-content/uploads/2019/12/Hilarious-Taco-Memes-I-will-Find-Them.jpg&s=200)
   
 ## This is cool: 
 
