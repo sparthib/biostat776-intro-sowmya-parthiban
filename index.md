@@ -22,5 +22,5 @@ at JHU. I work with the JHU Biostats deparment in spatial transcriptomics resear
 ## This is cool: 
 
   Justin Baldoni's an actor/producer who's been very active in 
-  breaking down toxic masculinity and gender norms in  society through his TV shows as well as his podcast [Man Enough]https://manenough.com/podcast/  and I think it's very cool. As far as I know, not enough men put themselves out there and talk about it.  
+  breaking down toxic masculinity and gender norms in  society through his TV shows as well as his podcast [Man Enough](https://manenough.com/podcast/)  and I think it's very cool. As far as I know, not enough men put themselves out there and talk about it.  
 
