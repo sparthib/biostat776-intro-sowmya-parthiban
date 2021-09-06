@@ -1,5 +1,5 @@
 
-# Hello! Here's a little something about me!
+# Welcome! Here's a little something about me:
 
 My name is Sowmya Parthiban. I am a Biomedical Engineering grad student 
 at JHU. I work with the JHU Biostats deparment in spatial transcriptomics research for neurodegenerative disorders. I primarily used to work with python for reinforcement learning research, but as I've found myself gravitated towards Biostatistics, I've slowly replaced that with R since it's widely used in the field. 
@@ -15,6 +15,7 @@ at JHU. I work with the JHU Biostats deparment in spatial transcriptomics resear
   4. Currently reading Can't Hurt Me by David Goggins. 
   
   5. My favorite food is beer-battered shrimp tacos!
+  ![taco](https://chelasmexicangrill.com/wp-content/uploads/2019/12/Hilarious-Taco-Memes-I-will-Find-Them.jpg)
   
 ## This is cool: 
 
