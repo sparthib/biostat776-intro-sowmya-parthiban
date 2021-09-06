@@ -16,7 +16,7 @@ at JHU. I work with the JHU Biostats deparment in spatial transcriptomics resear
   
   5. My favorite food is beer-battered shrimp tacos!
  
-  <img src="https://chelasmexicangrill.com/wp-content/uploads/2019/12/Hilarious-Taco-Memes-I-will-Find-Them.jpg" width="100" height="100">
+  <img src="https://chelasmexicangrill.com/wp-content/uploads/2019/12/Hilarious-Taco-Memes-I-will-Find-Them.jpg" width="300" height="300">
 
   
 ## This is cool: 
